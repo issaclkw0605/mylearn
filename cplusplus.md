@@ -574,9 +574,6 @@ support forward and backward
 constant time insert, removal at begin and end, middle
 
 
-416 897 1383
-416 223 8967
-
 
 deque:
 
@@ -680,68 +677,7 @@ https://www.fluentcpp.com/posts/
 https://www.fluentcpp.com/2017/08/22/smart-developers-use-smart-pointers-smart-pointers-basics/
 
 
-如果你想想搵工,有以下平台: 
-https://www.monster.co.uk
-https://uk.indeed.com/
-https://www.reed.co.uk
-https://www.glassdoor.co.uk/
-https://uk.jooble.org/ 
-jobs.ac.uk
-https://www.totaljobs.com/
-https://www.cv-library.co.uk/
-http://www.efinancialcareers.co.uk/
-https://www.cwjobs.co.uk/
 
-https://www.udemy.com/course/java-tutorial/learn/lecture/172757#overview
-
-Free 50+ Python Books on Python from amazon this weekend https://amzn.to/4bkoXiR
-
-~s1$71$24wwai132$5
-issac0605.lkw@gmail.com
-
-
-
-hays.co.uk
-roberthalf.co.uk
-michaelpage.co.uk
-randstad.co.uk
-reed.co.uk
-adecco.co.uk
-computerfutures.com
-morganmckinley.com
-cathcarttechnology.com
-www.technet-it.co.uk
-www.pro-tech.co.uk
-www.crimson.co.uk
-www.oakstone.co.uk
-www.finlayjames.co.uk
-www.understandingrecruitment.co.uk
-www.experis.co.uk
-www.digitalgurus.co.uk
-www.isluk.co.uk 
-
-https://www.monster.co.uk/jobs/search?q=Java+developer&where=London&page=2&so=m.p.sh
-
-Flat 9, N12 9LB
-
-
-Interview
-https://www.youtube.com/watch?v=boKnlAODnz8
-
-
-2A Huntly Rd, Birmingham, 
-West Midlands 
-B16 8JS, 
-United Kingdom
-
-https://www.cv-library.co.uk/job/223020163/Senior-Software-Developer?hlkw=software-developer&sid=497ceaa4-25df-4a21-94a2-ecc024131c23
-
-You can contact Customer Service through customerservice@completesavings.co.uk.
-If needed, you can also call us on 0800 389 6960 Monday - Friday 8am-8pm and Saturday 9am-4pm excluding bank holidays (calls to 0800 numbers are free from UK landlines and mobiles).
-
-
-uk_cs_ccagent	   uk_cs_ccemail  customerservice@completesavings.co.uk
-   uk_cs_ccnum  0800 389 6960 8 AM - 8 PM Monday-Friday 9 AM - 4 PM Saturday excluding bank holidays
    
 C++ features
 ============

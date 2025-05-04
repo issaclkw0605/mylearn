@@ -7,3 +7,6 @@
 [Java Streams The Anti-Boilerplate Toolkit]:<https://medium.com/@hajar.aitabdielmomin/java-streams-the-anti-boilerplate-toolkit-23389a4af462>
 [Lambda Expressions in Java Say Goodbye to Verbose Code]:<https://medium.com/@hajar.aitabdielmomin/lambda-expressions-in-java-say-goodbye-to-verbose-code-3b79dc3da67a>
 [Java Logging API]:<https://medium.com/javarevisited/java-logging-api-c39f8cc2cb24>
+
+
+https://www.udemy.com/course/java-tutorial/learn/lecture/172757#overview
