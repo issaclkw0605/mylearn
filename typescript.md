@@ -33,3 +33,6 @@ Example
 
 ###MCP
 - https://www.bilibili.com/video/BV1LU5XzhECi?buvid=XU5F4D153591981B6F76A71E2274AD0C946BB&from_spmid=dt.video-dt.video.0&is_story_h5=false&mid=WCL8lgTdieJreThQ54A8Jw%3D%3D&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=b72e0b04-2c0b-4a0a-8ed7-0f16d239760f&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1745315834&unique_k=ldF0i0n&up_id=314509002&vd_source=11bf661018fb71c8c45ba38d8074e864&spm_id_from=333.788.videopod.episodes
+
+https://grok.com/?q=Create+a+bubble+sort+in+C
+
